@@ -1,8 +1,8 @@
 ### General
 
-- 0. Git Basics
-- 1. Linux CLI, and HTTP
-- 2. Git Collaboration
+- Git Basics
+- Linux CLI, and HTTP
+- Git Collaboration
 
 ## Linux CLI, and HTTP
 <details><summary>Screenshots</summary>
