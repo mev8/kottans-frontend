@@ -3,6 +3,8 @@
 - Git Basics
 - Linux CLI, and HTTP
 - Git Collaboration
+- Intro to HTML and CSS
+- Responsive Web Design
 
 ## Linux CLI, and HTTP
 <details><summary>Screenshots</summary>
@@ -29,4 +31,11 @@
 <details><summary>Screenshots</summary>
 
 ![screenshot1](task_html_css_intro/scr_1.png)
+</details>
+
+## Responsive Web Design
+<details><summary>Screenshots</summary>
+
+![flex](task_responsive_web_design/flex.png)
+![grid](task_responsive_web_design/grid.png)
 </details>
